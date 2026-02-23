@@ -2,5 +2,6 @@
 Get an MP3 file from ANY YouTube URL! [FREE]
 
 
-![Static Badge](https://img.shields.io/badge/MADE_BY-YTLABS.MP3-8A2BE2)
+![Static Badge](https://img.shields.io/badge/MADE_BY-YTLABS.MP3-FF0000?logo=YouTube&logoColor=ffffff&logoSize=auto)
+
 
